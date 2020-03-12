@@ -7,5 +7,5 @@ It is based around the library, graphic.h. Unluckly this library is a bit outdat
 This code was coded using TurboC Compiler.
 
 # Here are some pictures:   
-1. Pic-1
-  ![Pic 1](https://github.com/60deg/Pacman--C-/blob/master/Imgs/Game3.png)
+1. Pic-1   
+![Pic 1](https://github.com/60deg/Pacman--C-/blob/master/Imgs/Game3.png)
