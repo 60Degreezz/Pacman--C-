@@ -9,7 +9,5 @@ This code was coded using TurboC Compiler.
 # Here are some pictures:   
 1. Pic-1   
 ![](Imgs/Game3.png)
-2. Pic-2
-![](Imgs/Game4.png)
-3. Pic-3
+2. Pic-3
 ![](Imgs/Game5.png)
