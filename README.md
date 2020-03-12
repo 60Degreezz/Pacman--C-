@@ -8,4 +8,4 @@ This code was coded using TurboC Compiler.
 
 # Here are some pictures:   
 1. Pic-1
-  [Pic 1](https://github.com/60deg/Pacman--C-/blob/master/Imgs/Game3.png)
+  ![Pic 1](https://github.com/60deg/Pacman--C-/blob/master/Imgs/Game3.png)
