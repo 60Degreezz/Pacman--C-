@@ -7,10 +7,18 @@ It is based around the library, graphic.h. Unluckly this library is a bit outdat
 This code was coded using TurboC Compiler.
 
 # Here are some pictures:   
-1. pic1:
+1. Intro page:
 
-![Intro page](Imgs/Game3.png)
+  ![Intro page](Imgs/Game3.png)
 
-2. pic2:
+2. Loading screen:
 
-![Loading screen](Imgs/Game5.png)
+  ![Loading screen](Imgs/Game5.png)
+  
+3. Game:
+
+ ![Game](Imgs/Game1.png) 
+ 
+4. Game over:
+
+  ![Game over](Imgs/Game2.png)
