@@ -10,6 +10,7 @@ This code was coded using TurboC Compiler.
 1. pic1:
 
 ![Intro page](Imgs/Game3.png)
+
 2. pic2:
 
 ![Loading screen](Imgs/Game5.png)
